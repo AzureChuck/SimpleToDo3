@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **additional** features are implemented:
 
-* [x] The "Add" button is blue. Because I like the color blue.
+* [x] The "Add" button is blue. Because I just like the color blue.
 
 ## Video Walkthrough
 
