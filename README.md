@@ -28,11 +28,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was somewhat difficult to code in the removal feature, but it took some thinking out loud to figure out that I had gotten the capitalization of some variables wrong.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Chukwudimma Ikoro]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
